@@ -33724,7 +33724,7 @@ Ihr Benutzerkonto auf [site:name] wurde gelöscht.
   $translations['de:default']['7dce122004969d56ae2e0245cb754d35'] = array(
     'source' => 'Edit',
     'context' => '',
-    'location' => '',
+    'location' => '; sites/all/modules/profiler_builder/js/profiler_builder.js; misc/machine-name.js; sites/all/modules/features/features.js',
     'translation' => 'Bearbeiten',
     'plid' => 0,
     'plural' => 0,
@@ -53886,7 +53886,7 @@ Das Team von [site:name]',
   $translations['de:default']['c5cd248cc1aff55242d21952ce5099cb'] = array(
     'source' => '(active tab)',
     'context' => '',
-    'location' => '',
+    'location' => '; misc/vertical-tabs.js',
     'translation' => '(aktiver Reiter)',
     'plid' => 0,
     'plural' => 0,

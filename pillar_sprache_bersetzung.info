@@ -8,6 +8,4 @@ dependencies[] = features
 dependencies[] = features_translations
 dependencies[] = locale
 features[features_api][] = api:2
-features[language][] = de
-features[language][] = en
 features[translations][] = de:default
